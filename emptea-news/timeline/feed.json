@@ -1,5 +1,13 @@
 {
     "timeline": [{
+            "title": "Paxos stops issuing BUSD",
+            "content": "After Kraken, the SEC now goes after Binance.",
+            "data": "12-02-2023"
+        },{
+            "title": "Kraken stops Staking",
+            "content": "The SEC forces Kraken to stop staking services for US residents. In addition to that, Kraken was fined with 30$ million.",
+            "data": "11-02-2023"
+        },{
             "title": "BTC spikes to 24k, after 0.25% raise",
             "content": "The market reacts positive after the expected raise, and Powell talking about disinflation.",
             "data": "01-02-2023"
